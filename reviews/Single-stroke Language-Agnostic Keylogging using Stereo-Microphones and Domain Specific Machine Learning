@@ -1,0 +1,10 @@
+## Single-stroke Language-Agnostic Keylogging using Stereo-Microphones and Domain Specific Machine Learning
+Sashank Narain, Amirali Sanatinia and Guevara Noubir College of Computer and Information Science Northeastern University, Boston, MA
+### Summary
+* 基于Android OS结合stereo-microphones and gyroscopes，exceed 90% accuracy
+* 结合两种方法记录声音：（1）the amplitude of audio signals at the two microphones （2）the other that uses the time delay between signals reaching
+the two microphones。number of samples = （distance（T，M1）- distance（T，M2））*samples rate/speed of sound
+### Strengths / Novelties
+* 
+### Weaknesses / Notes
+*
