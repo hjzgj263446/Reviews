@@ -1,4 +1,4 @@
-## SonarSnoop:ActiveAcousticSide-ChannelAttacks 
+## SonarSnoop:Active Acoustic Side-Channel Attacks 
 PengCheng,Ibrahim Ethem Bagci,Utz Rozdig,Jeff Yan,May9,2018
 ### summary
 * 第一个提出了active acoustic side-channel attack，提出了SonarSnoop Framework
