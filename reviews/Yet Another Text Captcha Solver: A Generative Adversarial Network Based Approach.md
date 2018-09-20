@@ -1,5 +1,4 @@
-## Yet Another Text Captcha Solver:
-A Generative Adversarial Network Based Approach
+## Yet Another Text Captcha Solver:A Generative Adversarial Network Based Approach
 Guixin Ye,Zhanyong Tang,Dingyi Fang,Zhanxing Zhu,Yansong Feng,Pengfei Xu
 ### Summary
 * 利用GAN创建了一个captchas solver，结果显示效果很好，优于目前最先进的几个solver，并且还能用于这些solver不能使用的地方。  
