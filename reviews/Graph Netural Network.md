@@ -10,7 +10,7 @@
 * GraphSAGE Idea 方法
   >1.将邻接节点向量映射为一个单一向量（将这个过程称为AGG），然后与目标向量链接作为这一层的输入，通过激活函数输出  
   >2.AGG可以是mean方法、Pool、LSTM方法  
-  ### 感觉有点像CGAN中的条件
+  >#### 感觉有点像CGAN中的条件
 * Gated Graph Neural Networks方法
   >1.e
   >2.e
