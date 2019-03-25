@@ -12,3 +12,4 @@ similarities simultaneously
   * can constrain the latent features of users and items with arbitrary similarity simultaneously 
   * achieve the best performance for cold-start users and items
 ## Weakness
+  * 代价函数既然想要考虑最大化相似度和最小化不相似，那么采用交叉熵作为代价函数呢
